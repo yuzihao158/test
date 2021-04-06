@@ -12,6 +12,7 @@ public class test1 {
 		//浮点数是不精确的
 		System.out.println(0.3f+0.6F);//double
 		System.out.println(0.9-0.6);//double
+		System.out.println("hello");
 	}
 
 }
